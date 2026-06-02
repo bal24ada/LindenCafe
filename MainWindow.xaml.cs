@@ -20,5 +20,20 @@ namespace LindenCafe_BalsecenAda_KasperJamie
         {
             InitializeComponent();
         }
+
+        private void ButtonGameContinue_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void ButtonNewGame_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void ButtonUpdates_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
