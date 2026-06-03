@@ -7,6 +7,14 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <Canvas Background="DarkGreen">
+            <Label x:Name="LabelLindenCafe" Content="Linden Cafe" Foreground="White" FontSize="40" Canvas.Left="291" Canvas.Top="28"/>
+            <Button x:Name="ButtonGameContinue" Content="Spiel fortsetzen" FontSize="30" Foreground="White" Canvas.Left="36" Canvas.Top="116" Background="DarkSlateGray" Height="60" Width="700" HorizontalAlignment="Left" VerticalAlignment="Center" Click="ButtonGameContinue_Click"/>
+            <Button x:Name="ButtonNewGame" Content="Neues Spiel" FontSize="30" Foreground="White" Canvas.Left="36" Canvas.Top="217" Background="DarkSlateGray" Height="60" Width="700" HorizontalAlignment="Center" VerticalAlignment="Center" Click="ButtonNewGame_Click"/>
+            <Button x:Name="ButtonUpdates" Content="Updates" FontSize="30" Foreground="White" Canvas.Left="36" Canvas.Top="320" Background="DarkSlateGray" Height="60" Width="700" HorizontalAlignment="Center" VerticalAlignment="Top" Click="ButtonUpdates_Click"/>
+
+
+        </Canvas>
 
     </Grid>
 </Window>
