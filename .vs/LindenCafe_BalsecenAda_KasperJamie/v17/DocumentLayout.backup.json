@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\adaba\\OneDrive - HTL-Rankweil\\Schule\\2025_26\\POS\\LindenCafe_BalsecenAda_KasperJamie\\LindenCafe_BalsecenAda_KasperJamie\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5059D125-94C8-461A-ABBE-D002297C4C6F}|LindenCafe_BalsecenAda_KasperJamie.csproj|c:\\users\\adaba\\onedrive - htl-rankweil\\schule\\2025_26\\pos\\lindencafe_balsecenada_kasperjamie\\lindencafe_balsecenada_kasperjamie\\cafegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5059D125-94C8-461A-ABBE-D002297C4C6F}|LindenCafe_BalsecenAda_KasperJamie.csproj|solutionrelative:cafegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5059D125-94C8-461A-ABBE-D002297C4C6F}|LindenCafe_BalsecenAda_KasperJamie.csproj|c:\\users\\adaba\\onedrive - htl-rankweil\\schule\\2025_26\\pos\\lindencafe_balsecenada_kasperjamie\\lindencafe_balsecenada_kasperjamie\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{5059D125-94C8-461A-ABBE-D002297C4C6F}|LindenCafe_BalsecenAda_KasperJamie.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -23,18 +27,30 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CafeGame.cs",
+              "DocumentMoniker": "C:\\Users\\adaba\\OneDrive - HTL-Rankweil\\Schule\\2025_26\\POS\\LindenCafe_BalsecenAda_KasperJamie\\LindenCafe_BalsecenAda_KasperJamie\\CafeGame.cs",
+              "RelativeDocumentMoniker": "CafeGame.cs",
+              "ToolTip": "C:\\Users\\adaba\\OneDrive - HTL-Rankweil\\Schule\\2025_26\\POS\\LindenCafe_BalsecenAda_KasperJamie\\LindenCafe_BalsecenAda_KasperJamie\\CafeGame.cs",
+              "RelativeToolTip": "CafeGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T10:18:07.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\adaba\\OneDrive - HTL-Rankweil\\Schule\\2025_26\\POS\\LindenCafe_BalsecenAda_KasperJamie\\LindenCafe_BalsecenAda_KasperJamie\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
               "ToolTip": "C:\\Users\\adaba\\OneDrive - HTL-Rankweil\\Schule\\2025_26\\POS\\LindenCafe_BalsecenAda_KasperJamie\\LindenCafe_BalsecenAda_KasperJamie\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-02T14:03:30.98Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-02T14:03:30.98Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\adaba\\OneDrive - HTL-Rankweil\\Schule\\2025_26\\POS\\LindenCafe_BalsecenAda_KasperJamie\\LindenCafe_BalsecenAda_KasperJamie\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
@@ -42,8 +58,7 @@
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAEwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T14:03:30.388Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-02T14:03:30.388Z"
             }
           ]
         }
